@@ -1,0 +1,15 @@
+{
+  "ids": {
+    "Product": 5
+  },
+  "models": {
+    "Product": {
+      "1": "{\"name\":\"Product 1\", \"desc\":\"Description 1\", \"price\":1, \"weight\":100, \"id\":1}",
+      "2": "{\"name\":\"Product 2\", \"desc\":\"Description 2\", \"price\":2, \"weight\":200, \"id\":2}",
+      "3": "{\"name\":\"Product 3\", \"desc\":\"Description 3\", \"price\":3, \"weight\":300, \"id\":3}",
+      "4": "{\"name\":\"Foo 4\",\"desc\":\"Description 4\",\"price\":4,\"weight\":400,\"id\":4}",
+      "5": "{\"name\":\"Product 5\", \"desc\":\"Description 5\", \"price\":5, \"weight\":500, \"id\":5}",
+      "6": "{\"name\":\"Product 6\", \"desc\":\"Description 6\", \"price\":6, \"weight\":600, \"id\":6}"
+    }
+  }
+}
